@@ -14,17 +14,19 @@ module.exports = app => {
 
 
     app.post('/api/notes', (req, res) => {
+        arr.push(req.body);
         for (let i = 0; i < arr.length; i++) {
             arr[i].id = i + 1;
         }
 
-        arr.push(req.body);
+
 
         fs.writeFile(path.join(__dirname, '../db/db.json'), JSON.stringify(arr),
             err => {
                 if (err) throw err;
             });
         return res.json(true);
+
     });
 
     app.delete('/api/notes/:id', (req, res) => {
@@ -48,5 +50,7 @@ module.exports = app => {
         return res.json(true);
 
 
+
     })
 };
+
