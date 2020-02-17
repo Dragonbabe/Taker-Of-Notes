@@ -7,7 +7,10 @@ Express Note Taking Application!
 - [General info](#general-info)
 - [Technologies](#Technologies)
 - [User Story](#User-Story)
+- [Screenshot](#Screenshot)
 - [Summary](#Summary)
+- [Author](#Author)
+- [License](#License)
 
 ## General Info
 
@@ -36,7 +39,7 @@ This application will enable me to always have something that saves all of my no
 
 A person can type in a note title and then also also paragraphs of information that they would like to store in notes. The information they wrote down can then be stored and after hitting the save button on the top right corner and upon doing that the note they just made will save into a column on the left hand side of the page
 
-## Authors
+## Author
 
 - Esther Walker
 
