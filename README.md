@@ -13,7 +13,7 @@ Express Note Taking Application!
 
 This project was an example using Express to create a CLI to take notes and then save them and then also delete them. This project was developing the back-end logic and the functionality behind the files. It was tying all of the various files together and making sure they were all communicating together.
 
-GitHub URL:
+GitHub URL: https://github.com/Dragonbabe/Taker-Of-Notes
 
 ## Technologies
 
