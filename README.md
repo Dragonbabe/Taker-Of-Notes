@@ -10,6 +10,7 @@ Express Note Taking Application!
 - [Screenshot](#Screenshot)
 - [Summary](#Summary)
 - [Author](#Author)
+- [Acknowledments](#Acknowledgments)
 - [License](#License)
 
 ## General Info
@@ -42,6 +43,10 @@ A person can type in a note title and then also also paragraphs of information t
 ## Author
 
 - Esther Walker
+
+## Acknowledgments
+
+I have to say thank you to Elrey for his support with this project!! Also thank you to all my supportive classmates who were willing to meet up, chat late at night via slack, and helped me not only turn in my assignment but also were there for moral support! It is great to be on the struggle bus with all of you!! :smile:
 
 ## LICENSE
 
